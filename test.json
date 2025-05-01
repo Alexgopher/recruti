@@ -1,0 +1,2 @@
+INSERT INTO `results`(`id`,`linkedin_username`,`industry`,`job_title`,`job_title_role`,`job_title_sub_role`)
+VALUES ('m6SWhNdH379BN0w5d6mwSQ_0000', 'jakub-łozicki', 'marketing and advertising', 'chief executive officer', '[]', '[]');
